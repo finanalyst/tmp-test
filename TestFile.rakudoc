@@ -3,5 +3,7 @@
 =head This is for testing
 
 I want you to know that the world is round
+=for item :bullet<<\c[palm tree]>>
+things are hard
 
 =end rakudoc
