@@ -1,7 +1,11 @@
 =begin rakudoc
 =TITLE Just a test
 =head This is for testing
+=for item :bullet<<\c[beating heart]>>
+peace
 
 I want you to know that the world is round
+=for item :bullet<<\c[beating heart]>>
+peace
 
 =end rakudoc
