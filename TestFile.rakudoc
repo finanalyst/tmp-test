@@ -3,5 +3,8 @@
 =head This is for testing
 
 I want you to know that the world is round
+=for item :bullet<<\c[earth globe asia-australia]>>
+where to work
+=for item :bullet<<\c[indian Rupee sign]>>
 
 =end rakudoc
